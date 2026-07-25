@@ -34,7 +34,7 @@ A high-performance, full-stack application for asynchronously verifying a list o
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/qochinyan/URL_Checker.git
     cd url_checker
     ```
 
